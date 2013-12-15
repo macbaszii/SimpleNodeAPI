@@ -1,0 +1,13 @@
+{
+	"name": "nodeapi",
+	"description": "Simple RESTFul API with Node.js by iMacbaszii",
+	"version": "0.0.1",
+	"author": "Kiattisak Anoochitarom <macbaszii@gmail.com>",
+	"dependencies": {
+		"express": "latest",
+		"moment": "~2.4.0",
+		"mocha": "1.15.1",
+		"underscore": "latest",
+		"chance": "latest"
+	}
+}
